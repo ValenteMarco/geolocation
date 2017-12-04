@@ -6,25 +6,13 @@
     </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
-        <layout>Account-Account Layout</layout>
+        <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>Account_Locator</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AccessCMC</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AddDirectMessageMembers</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AllowUniversalSearch</name>
-    </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>AllowViewKnowledge</name>
@@ -36,14 +24,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>AssignTopics</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterEditOwnPost</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterFileLink</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -60,10 +40,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ChatterOwnGroups</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ContentWorkspaces</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -111,19 +87,11 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>EnableCommunityAppLauncher</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>EnableNotifications</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ExportReport</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>FieldServiceAccess</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -135,19 +103,11 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>LightningExperienceUser</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ListEmailSend</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>MassInlineEdit</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>RemoveDirectMessageMembers</name>
+        <name>ManageEncryptionKeys</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -156,10 +116,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>SelectFilesFromSalesforce</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>SendExternalEmailAvailable</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -180,6 +136,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>UseWebLink</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewEventLogFiles</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
